@@ -34,6 +34,7 @@ nav a{
 #mainContainer{
     padding-top: 100px;
     background-color:#e4fff9e3;
+    height: 900px;
 }
 .linkAbout{
     position: fixed;
@@ -197,4 +198,27 @@ nav a{
     font-size: 20px;
     cursor: pointer;
 
+}
+#outer {
+    width: 90%;
+    height: 90%;
+    margin: 5%;
+    overflow: auto;
+    background-color: white;
+    
+}
+
+.inner {
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    margin: 30px;
+    background-color:#4aaaa5;
+    
+    
+}
+
+.portfolioimage{
+    float: 
+    background-image: url("images/dog.png");
 }
